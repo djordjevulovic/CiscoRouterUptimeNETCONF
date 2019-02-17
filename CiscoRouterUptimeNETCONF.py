@@ -1,7 +1,7 @@
 from lxml import etree
 from ncclient import manager
 from io import BytesIO
-import dateutil
+import dateutil.parser
 import sys
 import datetime
 

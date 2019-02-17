@@ -11,7 +11,7 @@ setup(
     description='Print uptime of Cisco routers using NETCONF',
     install_requires=[
           'lxml',
-          'nccclient',
-          'dateutil'
+          'ncclient',
+          'python-dateutil'
       ]
 )
