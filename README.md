@@ -18,7 +18,7 @@ Example:
 `10.1.1.1,830,myuser,mypass`  
 `10.1.1.2,830,myuser,mypass`
 
-#### Reqquirments
+#### Requirements
 
 Package requires Python 3.3 and later.
 
